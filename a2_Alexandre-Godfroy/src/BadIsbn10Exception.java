@@ -3,12 +3,6 @@
 // Questions: part 1, part2, part3
 // Written by: Alexandre Godfroy
 // ---------------------------------------------
-/**
- * Name and ID Alexandre Godfroy 40300165
- * COMP249
- * Assignment #2
- * Due Date 14th of November 2024
- */
 
 /**
  * This exception is thrown to indicate an error with a 10-digit ISBN.
