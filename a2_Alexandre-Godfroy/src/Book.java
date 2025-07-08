@@ -1,14 +1,9 @@
 // ---------------------------------------------
 // Assignment 2
 // Questions: part 1, part2, part3
-// Written by: Alexandre Godfroy, ID 40300165
+// Written by: Alexandre Godfroy
 // ---------------------------------------------s
-/**
- * Name and ID Alexandre Godfroy 40300165
- * COMP249
- * Assignment #2
- * Due Date 14th of November 2024
- */
+
 
 import java.io.IOException;
 import java.io.ObjectOutputStream;
